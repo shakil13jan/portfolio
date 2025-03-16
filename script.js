@@ -52,7 +52,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right'});
 
 /*=======================================================================Scrool Revel======================================================*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Lubricants Expert', 'Marketing Advisor', 'Contructor', 'Travel Agency Owner'],
+    strings: ['Lubricants Expert', 'Marketing Advisor', 'Contructor', 'Travel Agency Owner', 'Business Developer'],
     typeSpeed:70,
     backSpeed:70,
     backDelay:1000,
